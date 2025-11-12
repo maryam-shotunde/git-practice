@@ -10,5 +10,5 @@ for item in categories:
 while True:
     category = input('Enter the category:').upper()
 
-for category in categories:
-    print('CATEGORY ACCEPTED:',category)    
+    for category in categories:
+       print('CATEGORY ACCEPTED:',category)    
