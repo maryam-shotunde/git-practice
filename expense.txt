@@ -1,0 +1,5 @@
+f{e}
+f{e}
+{'amount': 2000, 'category': 'skincare', 'note': 'nectar', 'date': '16/111/2025 08:46 AM'}
+{'amount': 5000, 'category': 'bills', 'note': 'nepa', 'date': '16/111/2025 08:47 AM'}
+{'amount': 50000, 'category': 'skincare', 'note': 'nectar', 'date': '16/111/2025 08:47 AM'}
